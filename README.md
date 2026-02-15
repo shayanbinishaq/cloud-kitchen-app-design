@@ -10,8 +10,8 @@ A UI/UX redesign of a cloud kitchen mobile application focused on simplifying th
 
 ##  Project Preview
 <p align="center">
-  <img width="45%" alt="prototype" src="https://github.com/user-attachments/assets/8e1c2b4c-bd3a-409e-a15b-9c19026338f3" />
   <img width="45%" alt="prototype1" src="https://github.com/user-attachments/assets/3ab0480b-73a4-46a9-9117-d3c603cbf7a2" />
+  <img width="45%" alt="prototype" src="https://github.com/user-attachments/assets/8e1c2b4c-bd3a-409e-a15b-9c19026338f3" />
 </p>
 ---
 
