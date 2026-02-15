@@ -10,6 +10,7 @@ A walkthrough of the app flow is available here to download:
 
 
 Key Features
+
 <img width="412" height="917" alt="Login or signup" src="https://github.com/user-attachments/assets/e78f6c69-7607-46ce-ae7a-48f3afe0512f" />
 
 <img width="412" height="917" alt="1st page" src="https://github.com/user-attachments/assets/ec12047c-affd-40dd-83cb-4d21f293b78d" />
