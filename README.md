@@ -18,9 +18,9 @@ A UI/UX redesign of a cloud kitchen mobile application focused on simplifying th
 
 ##  Key Features
 <p align="center">
-  <img width="30%" alt="Login or signup" src="https://github.com/user-attachments/assets/e78f6c69-7607-46ce-ae7a-48f3afe0512f" />
-  <img width="30%" alt="1st page" src="https://github.com/user-attachments/assets/ec12047c-affd-40dd-83cb-4d21f293b78d" />
-  <img width="30%" alt="Main page" src="https://github.com/user-attachments/assets/93383e85-24e9-432b-9fcc-a570b1043e9d" />
+  <img src="https://github.com/user-attachments/assets/e78f6c69-7607-46ce-ae7a-48f3afe0512f" height="400" alt="Login Screen" />
+  <img src="https://github.com/user-attachments/assets/ec12047c-affd-40dd-83cb-4d21f293b78d" height="400" alt="Home Page" />
+  <img src="https://github.com/user-attachments/assets/93383e85-24e9-432b-9fcc-a570b1043e9d" height="400" alt="Main App View" />
 </p>
 
 * **Intuitive Navigation:** Reduced friction in browsing and ordering.
